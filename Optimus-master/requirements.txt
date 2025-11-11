@@ -1,0 +1,7 @@
+numpy>=1.19.0
+torch>=1.9.0
+matplotlib>=3.3.0
+gymnasium>=0.26.0
+tensorboard>=2.5.0
+scikit-learn>=0.24.0
+pandas>=1.2.0

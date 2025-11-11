@@ -1,0 +1,4 @@
+nano test3.c
+ clang -S -emit-llvm test3.c -o test3.ll
+./my_program test3.ll optimized_test3.ll
+ lli optimized_test1.ll

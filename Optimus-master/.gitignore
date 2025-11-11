@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Executables
+my_program
+optimized_exec
+
+# Compressed files
+*.zip
+
+# LLVM generated files
+*.ll
